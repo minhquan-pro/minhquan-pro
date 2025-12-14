@@ -46,16 +46,16 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=minhquan-pro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquan-pro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhquan-pro&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=minhquan-pro&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -63,7 +63,7 @@
 ## 🔥 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhquan-pro&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="95%"/>
 </div>
 
 ---
@@ -97,7 +97,7 @@ const leMinhQuan = {
 
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=minhquan-pro&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -136,6 +136,6 @@ const leMinhQuan = {
   
 ### 💡 "Design is not just what it looks like. Design is how it works" - Steve Jobs
 
-**⭐️ From MinhQuân(https://github.com/minhquan-pro) | Made with ❤️ and ☕**
+**⭐️ From minhquan-pro(https://github.com/minhquan-pro) | Made with ❤️ and ☕**
 
 </div>
