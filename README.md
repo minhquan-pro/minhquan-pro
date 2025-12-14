@@ -1,7 +1,7 @@
 # Hi, I'm Minh Quân 👋🔒
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%F0%9F%92%BB;Building+Beautiful+Web+Experiences+%E2%9C%A8" alt="Typing SVG" />
+  <h2>Frontend Developer 💻</h2>
 </div>
 
 ---
