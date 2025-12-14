@@ -57,12 +57,3 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=minhquan-pro&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
----
-
-<div align="center">
-  
-### 💡 "Design is not just what it looks like. Design is how it works" - Steve Jobs
-
-**⭐️ From minhquan-pro(https://github.com/minhquan-pro) | Made with ❤️ and ☕**
-
-</div>
