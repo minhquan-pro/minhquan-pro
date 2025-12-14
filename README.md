@@ -53,7 +53,3 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhquan-pro&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600"/>
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=minhquan-pro&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
