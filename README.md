@@ -33,8 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
 </p>
 
----
-
 ### 🚀 My Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=minhquan-pro&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="195"/>
