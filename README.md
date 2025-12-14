@@ -1,23 +1,16 @@
 # Hi, I'm Lê Minh Quân 👋🔒
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Information+Security+Student+%F0%9F%94%92;Frontend+Development+Enthusiast+%F0%9F%92%BB;Building+Beautiful+Web+Experiences+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%F0%9F%92%BB;Building+Beautiful+Web+Experiences+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🚀 About Me
-
-🎓 I'm an **Information Security student** at university, learning about cybersecurity and digital protection.
-
-💙 I'm deeply passionate about **Frontend Development** and love creating beautiful, user-friendly web interfaces.
-
+🚀 About Me
+💻 I'm a Frontend Developer passionate about creating beautiful, user-friendly web interfaces.
 ✨ I enjoy bringing designs to life with clean code and smooth user experiences.
-
-🌱 Currently learning modern **JavaScript frameworks**, **React**, and improving my **UI/UX** skills.
-
-🤝 Open to collaborating on **Frontend projects** or anything that helps me grow as a developer!
-
+🌱 Currently learning modern JavaScript frameworks, React, and improving my UI/UX skills.
+🤝 Open to collaborating on Frontend projects or anything that helps me grow as a developer!
 ---
 
 ## 🛠️ Tech Stack
