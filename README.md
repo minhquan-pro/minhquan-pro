@@ -2,13 +2,16 @@
 ---
 🚀 About Me
 
-💻 I'm a Frontend Developer passionate about creating beautiful, user-friendly web interfaces.
-
-✨ I enjoy bringing designs to life with clean code and smooth user experiences.
-
-🌱 Currently learning modern JavaScript frameworks, React, and improving my UI/UX skills.
-
-🤝 Open to collaborating on Frontend projects or anything that helps me grow as a developer!
+<ul>
+  <li>💻 I'm a Frontend Developer passionate about creating beautiful, user-friendly web interfaces.
+</li>
+  <li>✨ I enjoy bringing designs to life with clean code and smooth user experiences.
+</li>
+  <li>🌱 Currently learning modern JavaScript frameworks, React, and improving my UI/UX skills.
+</li>
+  <li>🤝 Open to collaborating on Frontend projects or anything that helps me grow as a developer!
+</li>
+</ul>
 
 ---
 
