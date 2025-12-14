@@ -93,16 +93,6 @@ const leMinhQuan = {
 
 ---
 
-## 📈 Contribution Stats
-
-<div align="center">
-  
-![](https://komarev.com/ghpvc/?username=minhquan-pro&color=blueviolet&style=for-the-badge&label=Profile+Views)
-
-</div>
-
----
-
 ## 🏆 Achievements
 
 - 🎓 Information Security Student
