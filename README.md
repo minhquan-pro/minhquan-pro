@@ -1,9 +1,4 @@
 # Hi, I'm Minh Quân 👋🔒
-
-<div align="center">
-  <h2>Frontend Developer 💻</h2>
-</div>
-
 ---
 🚀 About Me
 
