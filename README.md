@@ -1,43 +1,87 @@
-# Hi, I'm Minh Quân 👋🔒
+# Minh Quan - Frontend Developer Portfolio
+
+Welcome to my professional portfolio! I'm a dedicated Frontend Developer with a passion for creating intuitive, responsive, and high-performance web applications.
+
+## 👨‍💻 About Me
+
+I'm a Frontend Developer committed to crafting elegant solutions to complex problems. With expertise in modern web technologies and a keen eye for user experience, I build scalable and maintainable web applications that make a difference.
+
+## 🛠️ Technical Skills
+
+### Frontend Technologies
+- **JavaScript & TypeScript** - Advanced proficiency in modern JavaScript ES6+ and TypeScript
+- **React** - Building efficient, component-based user interfaces with hooks and state management
+- **Vue.js** - Progressive framework expertise for dynamic web applications
+- **HTML5 & CSS3** - Semantic markup and advanced styling techniques
+- **Responsive Design** - Mobile-first approach with CSS Grid and Flexbox
+
+### Tools & Frameworks
+- **State Management** - Redux, Vuex, Context API
+- **Build Tools** - Webpack, Vite, Babel
+- **Testing** - Jest, React Testing Library, Vitest
+- **Version Control** - Git, GitHub, GitLab
+- **UI Libraries** - Material-UI, Tailwind CSS, Bootstrap
+
+### Development Tools
+- **Package Managers** - npm, yarn, pnpm
+- **API Integration** - RESTful APIs, GraphQL
+- **Performance Optimization** - Code splitting, lazy loading, caching strategies
+- **Web Performance** - Lighthouse, Chrome DevTools
+
+## 🎯 Key Competencies
+
+- ✨ Building modern, responsive web applications
+- 🚀 Performance optimization and best practices
+- 🧪 Writing clean, maintainable, and tested code
+- 🎨 UI/UX implementation and design collaboration
+- 📱 Cross-browser compatibility and progressive enhancement
+- 🔧 Debugging and problem-solving
+- 👥 Collaboration and team communication
+
+## 💼 Professional Experience
+
+I bring expertise in:
+- Full-stack frontend development
+- Component architecture and design patterns
+- Accessibility (a11y) and SEO best practices
+- Agile/Scrum methodologies
+- Code review and mentoring junior developers
+
+## 📚 Continuous Learning
+
+Staying updated with the latest industry trends and technologies:
+- Regular participation in web development communities
+- Contributing to open-source projects
+- Exploring emerging frontend technologies and frameworks
+- Following best practices in web standards and accessibility
+
+## 🎓 Approach
+
+I believe in:
+- Writing clean, readable, and maintainable code
+- Following SOLID principles and design patterns
+- Testing-driven development
+- Continuous improvement and learning
+- Collaboration and knowledge sharing
+
+## 🌐 Let's Connect
+
+I'm always interested in discussing:
+- Frontend development best practices
+- New web technologies and frameworks
+- Innovative project ideas
+- Collaboration opportunities
+
+## 📫 Get In Touch
+
+Feel free to reach out for:
+- Project collaborations
+- Freelance opportunities
+- General inquiries
+- Code reviews and feedback
+
 ---
-🚀 About Me
 
-<ul>
-  <li>💻 I'm a Frontend Developer passionate about creating beautiful, user-friendly web interfaces.
-</li>
-  <li>✨ I enjoy bringing designs to life with clean code and smooth user experiences.
-</li>
-  <li>🌱 Currently learning modern JavaScript frameworks, React, and improving my UI/UX skills.
-</li>
-  <li>🤝 Open to collaborating on Frontend projects or anything that helps me grow as a developer!
-</li>
-</ul>
+**Last Updated:** December 17, 2025
 
----
-
-## 🛠️ Tech Stack
-
-### Frontend Development
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
-</p>
-
-### Tools & Platforms
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
-</p>
-
-## 🚀 My Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minhquan-pro&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquan-pro&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" height="195"/>
-</div>
+Thank you for visiting my portfolio! 🚀
