@@ -11,12 +11,11 @@ I'm a Frontend Developer committed to crafting elegant solutions to complex prob
 ### Frontend Technologies
 - **JavaScript & TypeScript** - Advanced proficiency in modern JavaScript ES6+ and TypeScript
 - **React** - Building efficient, component-based user interfaces with hooks and state management
-- **Vue.js** - Progressive framework expertise for dynamic web applications
 - **HTML5 & CSS3** - Semantic markup and advanced styling techniques
 - **Responsive Design** - Mobile-first approach with CSS Grid and Flexbox
 
 ### Tools & Frameworks
-- **State Management** - Redux, Vuex, Context API
+- **State Management** - Redux, Context API
 - **Build Tools** - Webpack, Vite, Babel
 - **Testing** - Jest, React Testing Library, Vitest
 - **Version Control** - Git, GitHub, GitLab
