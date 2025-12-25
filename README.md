@@ -1,5 +1,4 @@
-# Minh Quan - Full Stack Developer Portfolio
-
+# Minh Quan - Front End Developer
 Welcome to my professional portfolio! I'm a dedicated Full Stack Developer with a passion for creating intuitive, responsive, and high-performance web applications.
 
 ## 👨‍💻 About Me
