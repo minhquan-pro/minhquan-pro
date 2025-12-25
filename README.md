@@ -1,4 +1,4 @@
-# Minh Quan - Front End Developer
+# Minh Quan - Front End Developer At BSkyTech
 Welcome to my professional portfolio! I'm a dedicated Full Stack Developer with a passion for creating intuitive, responsive, and high-performance web applications.
 
 ## 👨‍💻 About Me
