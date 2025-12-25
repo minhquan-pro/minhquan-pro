@@ -16,15 +16,9 @@ I'm a Full Stack Developer committed to crafting elegant solutions to complex pr
 ### Backend Technologies
 - **Node.js** - Building scalable server-side applications with asynchronous JavaScript runtime
 - **Express.js** - Developing RESTful APIs and robust backend services
-- **Database Management** - Experience with MongoDB, PostgreSQL, and MySQL
+- **Database Management** - MySQL
 - **API Development** - RESTful API design, authentication, and authorization (JWT, OAuth)
-- **Server Architecture** - Microservices architecture, middleware implementation, and error handling
 
-### Development Tools & Practices
-- **Version Control** - Git, GitHub, GitLab
-- **Testing** - Jest, Mocha, Chai for unit and integration testing
-- **DevOps** - Docker, CI/CD pipelines, cloud deployment (AWS, Heroku)
-- **Architecture** - MVC pattern, clean code principles, and SOLID practices
 
 ## 🎯 Core Competencies
 
