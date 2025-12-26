@@ -18,14 +18,4 @@ I'm a Full Stack Developer committed to crafting elegant solutions to complex pr
 - **Database Management** - MySQL
 - **API Development** - RESTful API design, authentication, and authorization (JWT, OAuth)
 
-
-## 🎯 Core Competencies
-
-- Full stack application development
-- RESTful API design and implementation
-- Database schema design and optimization
-- Authentication and security best practices
-- Performance optimization and scalability
-- Agile development methodologies
-
 Thank you for visiting my portfolio! 🚀
