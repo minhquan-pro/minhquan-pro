@@ -39,6 +39,4 @@ I build web applications from frontend to backend, with a focus on clean code an
 
 ## Contact
 
-- 📧 Email: *(thêm email của bạn)*
-- 💼 LinkedIn: *(thêm LinkedIn)*
-- 🌐 Portfolio: *(thêm website)*
+- 📧 Email: *minhquan02227@gmail.com*
